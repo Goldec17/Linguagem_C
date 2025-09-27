@@ -77,3 +77,11 @@ int main () { // Este é o metódo principal
 }
 
 // Notem também sua coloração!
+
+
+/*
+Como atividade!
+
+Exibir na tela as informações de três pessoas!
+Sendo nome, endereço, idade!
+*/
